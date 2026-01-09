@@ -1,0 +1,218 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1644318295821-12c4ddf2a36e?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "SnapPic",
+    "companyName": "Pixel Labs",
+    "id": 1,
+    "description": "A simple photo editing tool with filters and effects.",
+    "size": 42,
+    "reviews": 12450,
+    "ratingAvg": 4.2,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 850 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4100 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1582070763274-dbeb2ef35190?q=80&w=1091&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "FitTrack",
+    "companyName": "Healthify Co.",
+    "id": 2,
+    "description": "Track workouts, calories, and health progress easily.",
+    "size": 78,
+    "reviews": 84200,
+    "ratingAvg": 4.6,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2100 },
+      { "name": "3 star", "count": 6200 },
+      { "name": "4 star", "count": 18500 },
+      { "name": "5 star", "count": 56000 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1674479813017-312c6fe99786?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "MindNote",
+    "companyName": "Creative Apps",
+    "id": 3,
+    "description": "Note-taking app with cloud sync and folder organization.",
+    "size": 25,
+    "reviews": 19400,
+    "ratingAvg": 4.4,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 6700 },
+      { "name": "5 star", "count": 7800 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1651055693398-0d66969cf759?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "TravelMate",
+    "companyName": "Wander Studio",
+    "id": 4,
+    "description": "Find flights, hotels, and vacation deals worldwide.",
+    "size": 89,
+    "reviews": 521000,
+    "ratingAvg": 4.7,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 18000 },
+      { "name": "2 star", "count": 23000 },
+      { "name": "3 star", "count": 41000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 339000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1686140386811-099f53c0dd54?q=80&w=701&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "TaskFlow",
+    "companyName": "ProdTech",
+    "id": 5,
+    "description": "Stay productive with task management and reminders.",
+    "size": 31,
+    "reviews": 61000,
+    "ratingAvg": 4.1,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4200 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 17000 },
+      { "name": "5 star", "count": 24800 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1652650445101-3bb4f755b67c?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Shoply",
+    "companyName": "Ecomify Global",
+    "id": 6,
+    "description": "Shop electronics, clothes, and more with fast delivery.",
+    "size": 95,
+    "reviews": 920000,
+    "ratingAvg": 4.5,
+    "downloads": 60000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 55000 },
+      { "name": "3 star", "count": 130000 },
+      { "name": "4 star", "count": 210000 },
+      { "name": "5 star", "count": 485000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1604297992396-5df2499ba816?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "LearnLang",
+    "companyName": "EduWorld",
+    "id": 7,
+    "description": "Learn new languages with interactive lessons.",
+    "size": 60,
+    "reviews": 157000,
+    "ratingAvg": 4.8,
+    "downloads": 14000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 31000 },
+      { "name": "5 star", "count": 113000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1763411711221-40166c5e20cd?q=80&w=1193&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "TuneBox",
+    "companyName": "SoundWave Ltd",
+    "id": 8,
+    "description": "Stream music and create playlists.",
+    "size": 55,
+    "reviews": 240000,
+    "ratingAvg": 4.3,
+    "downloads": 45000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 21000 },
+      { "name": "3 star", "count": 45000 },
+      { "name": "4 star", "count": 79000 },
+      { "name": "5 star", "count": 80000 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1744857006553-c74fe4e0a430?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "RideNow",
+    "companyName": "UrbanTech",
+    "id": 9,
+    "description": "Book taxis and rides with real-time tracking.",
+    "size": 82,
+    "reviews": 310000,
+    "ratingAvg": 4.0,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 91000 },
+      { "name": "5 star", "count": 84000 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1681400760937-76be571a7ebb?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "MailPro",
+    "companyName": "OfficePlus",
+    "id": 10,
+    "description": "Manage emails and calendars efficiently.",
+    "size": 48,
+    "reviews": 95000,
+    "ratingAvg": 4.2,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 31000 },
+      { "name": "5 star", "count": 36000 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1668051040456-24c63abd95b4?q=80&w=676&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "CodeMaster",
+    "companyName": "DevStudio",
+    "id": 11,
+    "description": "Practice coding challenges and learn algorithms.",
+    "size": 63,
+    "reviews": 124000,
+    "ratingAvg": 4.9,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 99000 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1677675634231-70bbe246db1f?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "BudgetBuddy",
+    "companyName": "FinanceLab",
+    "id": 12,
+    "description": "Track expenses and manage monthly budgets.",
+    "size": 29,
+    "reviews": 67000,
+    "ratingAvg": 4.3,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  }
+]

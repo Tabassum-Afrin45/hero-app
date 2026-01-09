@@ -8,12 +8,13 @@ import MainLayout from "../Layouts/MainLayout";
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <MainLayout />,
+    element: <MainLayout/>,
     errorElement:<ErrorPage/>,
     children: [
       {
         path: '/',
-        element: <Home />
+        element: <Home />,
+        loader: ()=>fetch('./appsData.json')
       },
       {
         path: '/apps',
