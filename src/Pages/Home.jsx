@@ -10,10 +10,11 @@ const Home=()=> {
     <div className='w-11/12 mx-auto py-8'>
       <section>
         <h1 className='font-bold text-3xl text-center'>We Build<br /><span className='text-purple-500'>Productive</span>Apps</h1>  
-        <p className='text-gray-500 text-sm py-3'>At HERO App, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
+        <p className='text-gray-500 text-sm py-3 text-center'>At HERO App, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
+        <div className='flex justify-center'>
         <NavLink to='https://play.google.com/store/games?device=windows' className="btn btn-primary mr-7">Google Play</NavLink>
         <NavLink to='https://www.apple.com/app-store/' className="btn btn-primary">App Store</NavLink>
-
+        </div>
       </section>
      
 <div className="w-11/12 mx-auto pt-5">
@@ -22,7 +23,7 @@ const Home=()=> {
 
 <section className="w-screen relative left-1/2 right-1/2 ml-[-50vw] mr-[-50vw] bg-linear-to-b from-blue-500 to-purple-500 h-60 flex items-center mb-8">
   <div className="w-11/12 mx-auto text-white text-center">
-    <h1 className="font-semibold text-xl">Trusted by Millions, Built for You</h1>
+    <h1 className="font-semibold text-2xl">Trusted by Millions, Built for You</h1>
 
     <div className="mt-5 grid grid-cols-3 place-items-center text-sm">
       <div>
@@ -45,7 +46,7 @@ const Home=()=> {
 </section>
 
       <div className='text-center mb-5'>
-        <h1 className='text-3xl font-semibold py-2'>Trending Apps</h1>
+        <h1 className='text-2xl font-semibold py-2'>Trending Apps</h1>
         <p className='text-gray-500 text-sm'>Explore All Trending Apps on the Market developed by us</p>
       </div>
     <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4'>
